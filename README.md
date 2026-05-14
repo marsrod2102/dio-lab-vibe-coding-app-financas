@@ -169,14 +169,14 @@ tentei criar uma Meta chamada Reserva de Emergência, mas ela não apareceu no c
 
 sim {Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhados das transações?}
 
-Resultado final no Lovable: 
+Resultado final no Lovable: Não conseguiu concluir por falta de crédito
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  PRD escrito perfeitamente
+  - O que não funcionou como o esperado?  Lovable esgota os créditos rapidamente, ainda estou tentando gerar o app
+  - O que aprendeu sobre conversar com IAs? espetacular o uso da IA no desenvolvimento Vibe Coding, estou adorando
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
